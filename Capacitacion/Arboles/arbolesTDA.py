@@ -82,25 +82,6 @@ def agregar_hijo():
             "No se ha generado un árbol aún. Por favor, genere un árbol primero.")
         return
 
-    nodo = st.selectbox("Seleccione el nodo que desea eliminar", list(nodos))
-    aplicar = st.button("Aplicar")
-
-    if aplicar:
-        G_copy = G.copy()  # Crear una copia del objeto Digraph
-
-        # Eliminar el nodo y sus aristas del árbol copiado
-        G_copy.node(nodo, None)
-        G_copy.edges([edge for edge in G_copy.edges() if edge[0] != nodo])
-
-        G_copy.remove_node(nodo)
-
-        nodos.remove(nodo)  # Eliminar el nodo del conjunto de nodos
-        # Actualizar el árbol en el estado de la sesión
-        st.session_state["arbol"] = G_copy
-        # Actualizar el conjunto de nodos en el estado de la sesión
-        st.session_state["nodos"] = nodos
-        st.success(f"El nodo {nodo} ha sido eliminado correctamente.")
-
 
 def ver_grafico_arbol_general():
     # Obtener el árbol desde el estado de la sesión
