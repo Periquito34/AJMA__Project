@@ -11,7 +11,12 @@ pip install networkx
 pip install matplotlib
 pip install graphviz
 
-2. Ejecutar Aplicacion:
+2. Descargar Proyecto desde el repositorio:
+- Dar click en la boton code
+- Download ZIP
+- Crear una carpeta en tus escritorio o donde los vayas a guardar y descomprimir el archivo ahi dentro.
+
+3. Ejecutar Aplicacion:
 -Dirijirse al a la carpeta AJMA__Project con: cd AJMA__Project
 -Digitar el siguiente comando: streamlit run main.py
 
