@@ -3,7 +3,7 @@ Proyecto final de Estructura de datos.
 
 1. Prerequisitos:
 
--Tener Python isntalado en el dispositivo (esencial) 
+-Tener Python instalado en el dispositivo (esencial) 
 
 
 -Tener Instalado las siguientes librerias en el sistema.
