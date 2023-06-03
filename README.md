@@ -22,7 +22,7 @@ Proyecto final de Estructura de datos.
 3. Ejecutar Aplicacion:
 -Abrir la carpeta en tu editor de codigo (se recomienda Visual Studio code)
 -Abrir una nueva terminal
--Dirijirse al a la carpeta AJMA__Project con: cd AJMA__Project
+-Dirijirse al a la carpeta AJMA__Project con: cd AJMA__Project-main
 -Digitar el siguiente comando: streamlit run main.py
 
 
