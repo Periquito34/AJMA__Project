@@ -17,6 +17,8 @@ pip install graphviz
 - Crear una carpeta en tus escritorio o donde los vayas a guardar y descomprimir el archivo ahi dentro.
 
 3. Ejecutar Aplicacion:
+-Abrir la carpeta en tu editor de codigo (se recomienda Visual Studio code)
+-Abrir una nueva terminal
 -Dirijirse al a la carpeta AJMA__Project con: cd AJMA__Project
 -Digitar el siguiente comando: streamlit run main.py
 
