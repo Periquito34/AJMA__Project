@@ -1,7 +1,7 @@
 # AJMA__Project
 Proyecto final de Estructura de datos.
 
-1.Prerequisitos:
+1. Prerequisitos:
 -Tener Instalado las siguientes librerias en el sistema.
 -Streamlit, NetworkX, graphviz, Matplotlib.
 
