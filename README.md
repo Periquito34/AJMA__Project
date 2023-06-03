@@ -12,9 +12,9 @@ pip install matplotlib
 pip install graphviz
 
 2. Descargar Proyecto desde el repositorio:
-Dar click en la boton code
-Download ZIP
-Crear una carpeta en tus escritorio o donde los vayas a guardar y descomprimir el archivo ahi dentro.
+-Dar click en la boton code
+-Download ZIP
+-Crear una carpeta en tus escritorio o donde los vayas a guardar y descomprimir el archivo ahi dentro.
 
 3. Ejecutar Aplicacion:
 Abrir la carpeta en tu editor de codigo (se recomienda Visual Studio code)
