@@ -1,7 +1,5 @@
-import matplotlib.pyplot as plt
-import networkx as nx
 import streamlit as st
-import heapq
+
 
 from Capacitacion.Monticulos.monticulos import agregar_persona, mostrar_lista
 
