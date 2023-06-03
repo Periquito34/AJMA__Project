@@ -24,7 +24,7 @@ def run():
     """
     <style>
     #MainMenu {
-        visibility:hidden;
+        visibility:;
     }
     </style>
     """,
@@ -35,7 +35,7 @@ def run():
     """
     <style>
     header {
-        visibility: hidden;
+        visibility: ;
     }
     </style>
     """,
