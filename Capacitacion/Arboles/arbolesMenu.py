@@ -1,5 +1,3 @@
-import matplotlib.pyplot as plt
-import networkx as nx
 import streamlit as st
 from Capacitacion.Arboles.informacion import info, Aplicaciones_de_arboles
 from Capacitacion.Arboles.arbolesTDA import menu

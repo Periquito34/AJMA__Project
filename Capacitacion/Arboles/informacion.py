@@ -1,5 +1,3 @@
-import matplotlib.pyplot as plt
-import networkx as nx
 import streamlit as st
 
 from PIL import Image
